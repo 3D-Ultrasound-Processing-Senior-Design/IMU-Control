@@ -13,12 +13,11 @@ This repository holds the software for ENSC24-43's PC-Client software.
 
 1. First download this repository as a `.zip` folder. Click the green code button towards the top
    of the page and at the bottom of the dialogue there will be a download to zip option.
-3. Once the folder is downloaded, you can copy the `3D_UltraSound_Tool_Executable.zip` file
-   to where you want to keep the program on your machine.
-4. Right-click the file and select "Extract."
-5. At this point you should have a folder with the executable files in it.
-
-- To run the software, double click the `Ultrasound Mapping.exe` file.
+2. Once the folder is downloaded, you can extract it.
+3. Then you can navigate to the 3D_Ultrasound_Tool_Executable folder.
+4. To run the software, double click the `Ultrasound Mapping.exe` file.
+5. NOTE: You may receive a windows dialogue giving you a warning about the software.
+   You should click `more info` at the top and then click `run anyways`.
 
 ### Talking to the part:
 
