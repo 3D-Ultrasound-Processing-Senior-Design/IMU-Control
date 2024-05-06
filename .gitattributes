@@ -1,1 +1,2 @@
 3D_UltraSound_Tool_Executable.zip filter=lfs diff=lfs merge=lfs -text
+3D_UltraSound_Tool_Executable/ filter=lfs diff=lfs merge=lfs -text
